@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "eureka.client.fetch-register",
+      "type": "java.lang.String",
+      "description": "Description for eureka.client.fetch-register."
+  }
+] }
